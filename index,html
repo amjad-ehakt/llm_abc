@@ -1,2 +1,7 @@
 <h1>   Hello World <h1>
+<<<<<<< HEAD
 <p> This is a New Repo [dropdown]<p>
+=======
+<p> This is a New Repo <p>
+<p> New Branch Update Feature1 [button]</p>
+>>>>>>> main
